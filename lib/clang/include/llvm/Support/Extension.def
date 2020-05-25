@@ -1,0 +1,3 @@
+// $FreeBSD: stable/12/lib/clang/include/llvm/Support/Extension.def 360545 2020-05-01 20:20:23Z dim $
+//extension handlers
+#undef HANDLE_EXTENSION

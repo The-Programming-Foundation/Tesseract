@@ -1,0 +1,20 @@
+# $FreeBSD: stable/12/usr.bin/clang/llvm-xray/Makefile 356462 2020-01-07 19:49:10Z dim $
+
+PROG_CXX=	llvm-xray
+MAN=
+
+SRCDIR=		llvm/tools/llvm-xray
+SRCS+=		func-id-helper.cpp
+SRCS+=		llvm-xray.cpp
+SRCS+=		xray-account.cpp
+SRCS+=		xray-color-helper.cpp
+SRCS+=		xray-converter.cpp
+SRCS+=		xray-extract.cpp
+SRCS+=		xray-graph-diff.cpp
+SRCS+=		xray-graph.cpp
+SRCS+=		xray-registry.cpp
+SRCS+=		xray-stacks.cpp
+
+LIBADD+=	z
+
+.include "../llvm.prog.mk"

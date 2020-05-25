@@ -1,0 +1,3 @@
+.\" $FreeBSD: stable/12/tools/build/options/WITH_NVME 353800 2019-10-21 17:45:00Z dim $
+Set to build nvme related tools and kernel modules.
+

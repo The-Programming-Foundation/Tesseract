@@ -1,0 +1,3 @@
+.\" $FreeBSD: stable/12/tools/build/options/WITH_PIE 352754 2019-09-26 16:05:57Z emaste $
+Build dynamically linked binaries as
+Position-Independent Executable (PIE).

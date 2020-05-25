@@ -1,0 +1,9 @@
+.\" $FreeBSD: stable/12/tools/build/options/WITH_VERIEXEC 353800 2019-10-21 17:45:00Z dim $
+Enable building
+.Xr veriexec 8
+which loads the contents of verified manifests into the kernel
+for use by
+.Xr mac_veriexec 4
+.Pp
+Depends on
+.Va WITH_BEARSSL .

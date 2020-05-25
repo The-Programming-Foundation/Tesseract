@@ -1,0 +1,3 @@
+.\" $FreeBSD$
+Build GNU binutils
+as part of the bootstrap process.

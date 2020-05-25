@@ -1,0 +1,5 @@
+.\" $FreeBSD: stable/12/tools/build/options/WITHOUT_BIND_NOW 352752 2019-09-26 15:50:18Z emaste $
+Do not build all binaries with the
+.Dv DF_BIND_NOW
+flag set.
+Run-time relocation processing will be performed on demand.
