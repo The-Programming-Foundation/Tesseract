@@ -1,4 +1,4 @@
-## Tesseract OS
+### Tesseract OS
 
 FreeBSD Source:
 ---------------
