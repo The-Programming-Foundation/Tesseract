@@ -1,5 +1,5 @@
 # Tesseract OS
-This is the official GitHub repo for the Tesseract OS. The base is forked from FreeBSD. This repo contains the rootfs image created for Spike. We plan on providing a demo of the system running a desktop environment using [QEMU](https://www.freshports.org/emulators/qemu) on [RISC-V](https://riscv.org/).
+This is the official GitHub repo for the Tesseract OS. The base is forked from [FreeBSD](https://github.com/freebsd/freebsd). This repo contains the rootfs image created for Spike. We plan on providing a demo of the system running a desktop environment using [QEMU](https://www.freshports.org/emulators/qemu) on [RISC-V](https://riscv.org/).
 
 FreeBSD Source:
 ---------------
