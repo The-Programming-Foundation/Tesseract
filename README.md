@@ -3,7 +3,7 @@ This is the official GitHub repo for the Tesseract OS. The base is being forked 
 
 At The Programming Foundation, we are in the initial stage of developing an operating system with a simple interface that runs on the open instruction set architecture, RISC-V. The following demo is running on x64 architecture:
 
-[https://youtu.be/lX9rbQA64OU)](https://youtu.be/lX9rbQA64OU)
+[Demo](https://youtu.be/lX9rbQA64OU)
 
 FreeBSD Source:
 ---------------
